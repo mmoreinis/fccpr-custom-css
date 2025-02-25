@@ -1,0 +1,25 @@
+.acf-view__history-label,.acf-view__current-work-label,.acf-view__how-to-get-involved-label,.acf-view__contact-label,.acf-view__point-person{
+font-weight:bold;
+font-size:+1;
+}
+
+.category-fccpr-in-the-news .wp-block-post-excerpt{
+max-height:120px;
+height:120px;
+min-height:120px;
+overflow:hidden;
+}
+
+.killspace{
+margin-bottom:-10px!important; 
+}
+
+.killspace-tf{
+padding:0;
+}
+
+.wp-block-site-logo.aligncenter {
+text-align:left!important;
+margin:0!important;
+padding-left:30px!important;
+}
