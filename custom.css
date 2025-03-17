@@ -21,5 +21,20 @@ padding:0;
 .wp-block-site-logo.aligncenter {
 text-align:left!important;
 margin:0!important;
-padding-left:30px!important;
+padding-left:1.7%!important;
+}
+@media only screen and (max-width: 500px) {
+.wp-block-social-links-is-layout-flex{
+display: none!important;
+}
+.wp-block-search__button{
+margin-right: 10px!important;
+}
+.wp-block-navigation-is-layout-flex{
+margin-left: -10px!important
+}
+}
+.wp-block-post-content-is-layout-constrained p{
+padding-bottom:0!important;
+padding-top:0!important;
 }
